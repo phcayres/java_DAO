@@ -9,8 +9,8 @@ The package contains examples of Data Access Object (DAO) in Java running inside
 This project contains java codes that provide data manipulation using DAO.
 
 All source files are available
-* The data file script is available the **/sql** package. Refer to and update the **bancoDeDadosEscola.properties** file inside the **/util** package to configure the database access.
-* Inside the **/visao** package you'll find all java code examples to manipulate data from PostgreSQL database. Run each on using SHIFT+F6.
+* The data file script is available on **/sql** package. Refer to and update the **bancoDeDadosEscola.properties** file inside **/util** package to configure the database access.
+* Inside **/visao** package you'll find all java code examples to manipulate data from PostgreSQL database. Run each on using SHIFT+F6.
 
 ## Issues
 
