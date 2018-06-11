@@ -1,2 +1,2 @@
 # java_DAO
-Data accessobject in Java examples
+Data accessobject in Java examples - NetBeans project
