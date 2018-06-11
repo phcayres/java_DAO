@@ -6,7 +6,7 @@ Data Access Object (DAO) in Java - NetBeans project
 The package contains examples of Data Access Object (DAO) in Java running inside a NetBeans project and PostgreSQL database.
 
 ## About the project
-This project contains Jasper reports built using JasperSoft Studio.
+This project contains java codes that provide data manipulation using DAO.
 
 All source files are available
 * The data file script is available the **/sql** package. Refer to and update the **bancoDeDadosEscola.properties** file inside the **/util** package to configure the database access.
